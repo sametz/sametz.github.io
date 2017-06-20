@@ -1,2 +1,5 @@
 [project]
 name = sametz
+
+[servers.ghpages]
+target = ghpages+https://sametz/sametz.github.io
