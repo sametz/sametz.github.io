@@ -1,0 +1,12 @@
+title: Projects
+---
+body:
+
+___
+### [pydnmr](https://github.com/sametz/pydnmr) (status: beta)
+Simulation of Dynamic NMR (DNMR) spectra.
+___
+### [secondorder](https://github.com/sametz/secondorder) (status: pre-alpha)
+Simulation of second-order NMR spectra (n spin-1/2 nuclei)
+___
+

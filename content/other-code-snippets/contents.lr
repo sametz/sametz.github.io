@@ -1,0 +1,12 @@
+_model: page
+---
+title: Other Code Snippets
+---
+body:
+
+___
+###[matplotlib-model-view-controller](https://github.com/sametz/matplotlib-model-view-controller): 
+
+a demo of a tkinter application with clear separation of model/view/controller, and incorporating a matplotlib graph into the view.
+___
+
