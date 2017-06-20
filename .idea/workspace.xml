@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8ef1a1a-5304-42a3-8f46-8ef86cecca18" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/static/Alembic.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +36,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="page.ini" pinned="false" current-in-tab="true">
+          <file leaf-file-name="page.ini" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/models/page.ini">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
@@ -87,11 +86,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="mock.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="mock.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/static/mock.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="418">
+                  <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -172,13 +171,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/templates/mock.html" />
-        <option value="$PROJECT_DIR$/assets/static/mock.css" />
         <option value="$PROJECT_DIR$/content/projects/contents.lr" />
         <option value="$PROJECT_DIR$/assets/static/style.css" />
         <option value="$PROJECT_DIR$/templates/layout.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/sametz.lektorproject" />
+        <option value="$PROJECT_DIR$/assets/static/mock.css" />
       </list>
     </option>
   </component>
@@ -443,7 +442,21 @@
       <option name="project" value="LOCAL" />
       <updated>1497988351041</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added lektor branch; deleted alembic.jpg">
+      <created>1497990680846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1497990680846</updated>
+    </task>
+    <task id="LOCAL-00004" summary="after deleting master on gh, trying to push lektor branch to publish">
+      <created>1497991827273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1497991827274</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -479,7 +492,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added .travis.yml" />
     <MESSAGE value="added server info to sametz.lektorproject" />
-    <option name="LAST_COMMIT_MESSAGE" value="added server info to sametz.lektorproject" />
+    <MESSAGE value="added lektor branch; deleted alembic.jpg" />
+    <MESSAGE value="after deleting master on gh, trying to push lektor branch to publish" />
+    <option name="LAST_COMMIT_MESSAGE" value="after deleting master on gh, trying to push lektor branch to publish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -598,14 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/static/mock.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/projects/contents.lr">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -670,14 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sametz.lektorproject">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/contents.lr">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -690,6 +689,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sametz.lektorproject">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/static/mock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
           <folding />
         </state>
       </provider>
