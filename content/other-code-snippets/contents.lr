@@ -9,4 +9,6 @@ ___
 
 a demo of a tkinter application with clear separation of model/view/controller, and incorporating a matplotlib graph into the view.
 ___
+###[rostercompare](https://github.com/sametz/rostercompare):
 
+A jupyter notebook that will compare two class rosters (.csv gradebook exports from Canvas LMS), detect changes between them (students adding/dropping the course or changing sections), and print a summary of the changes.
