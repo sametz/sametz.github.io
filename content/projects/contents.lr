@@ -3,10 +3,16 @@ title: Projects
 body:
 
 ___
+###[UW-DNMR](https://github.com/sametz/uw_dnmr)(status: alpha)
+Aspires to be a cross-platform (Un-Windowed) successor  to Hans Reich's WinDNMR application. 
+___
+###[nmrmint](https://github.com/sametz/nmrmint)(status: beta)
+Create simulated NMR spectra for chemical education.
+___
 ### [pydnmr](https://github.com/sametz/pydnmr) (status: beta)
 Simulation of Dynamic NMR (DNMR) spectra.
 ___
-### [secondorder](https://github.com/sametz/secondorder) (status: pre-alpha)
+### [secondorder](https://github.com/sametz/secondorder) (status: alpha)
 Simulation of second-order NMR spectra (n spin-1/2 nuclei)
 ___
 
